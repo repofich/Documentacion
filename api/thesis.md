@@ -53,7 +53,7 @@ Obtiene una tesis específica por su ID.
 
 **Endpoint**
 
-`GET /api/thesis/search/{text}`
+`GET /api/thesis/search/{search}`
 
 **Descripción**
 
